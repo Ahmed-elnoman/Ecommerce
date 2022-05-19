@@ -1,0 +1,13 @@
+    Simpla Analysis for Web Shop
+-- For Design I ues 
+  Font Awesome
+  Bootstrap-v-5
+  Nicescroll
+  Jquery
+
+-- Pages of Web
+    Dashboard
+    Logs
+    Statistics
+    Users Pages
+
